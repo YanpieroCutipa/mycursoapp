@@ -28,3 +28,4 @@ D:\UNIVERSIDAD\USMP-2024\PROGRAMACION I\mycursoapp\obj\Debug\net8.0\refint\mycur
 D:\UNIVERSIDAD\USMP-2024\PROGRAMACION I\mycursoapp\obj\Debug\net8.0\mycursoapp.pdb
 D:\UNIVERSIDAD\USMP-2024\PROGRAMACION I\mycursoapp\obj\Debug\net8.0\mycursoapp.genruntimeconfig.cache
 D:\UNIVERSIDAD\USMP-2024\PROGRAMACION I\mycursoapp\obj\Debug\net8.0\ref\mycursoapp.dll
+D:\UNIVERSIDAD\USMP-2024\PROGRAMACION I\mycursoapp\obj\Debug\net8.0\mycursoapp.sourcelink.json

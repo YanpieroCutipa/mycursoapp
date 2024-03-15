@@ -32,7 +32,7 @@ namespace mycursoapp.Models
 
         public double Pago()
         {
-            return Horas * 100;
+            return Creditos * 100;
         }
     }
 }
